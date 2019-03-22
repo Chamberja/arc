@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css?family=Hind+Vadodara|Muli");
+
+body {
+  font-size: 100%;
+  color: #2f5369;
+  font-family: 'Muli', sans-serif;
+  font-size: 1rem;
+  letter-spacing: .5px;
+}
+
+h1, h2, h3, h4 {
+  color: #2f5369;
+  font-family: 'Hind Vadodara', sans-serif;
+  line-height: 1;
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+p, a {
+  color: #2f5369;
+  font-family: 'Muli', sans-serif;
+  font-size: 1rem;
+  letter-spacing: .5px;
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+h1 {
+  font-size: 6rem;
+  letter-spacing: -1.5px;
+}
+
+h2 {
+  font-size: 3.75rem;
+  letter-spacing: -.5px
+}
+
+h3 {
+  font-size: 3rem;
+  letter-spacing: 0;
+}
+
+h4 {
+  font-size: 2.125rem;
+  letter-spacing: .25px;
+}
+
+a {
+  display: block;
+}
